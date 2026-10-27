@@ -15,7 +15,7 @@ and expected results.
 | File | Description |
 |---|---|
 | Mini Project.xlsx | 20 test cases (ID, Title, Pre.conditions, Steps, Expected results, Status) |
-| login_test_cases_presentation(1).pptx | Project presentation |
+| login_test_cases_presentation(2).pptx | Project presentation |
 | user_story_secure_login.pdf | User story and acceptance criteria (AC1 to AC10) |
 
 ## Coverage
